@@ -1,6 +1,5 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeTetsuya20)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abe-tetsu&theme=dracula)
+![](./profile-summary-card-output/dracula/0-profile-details.svg)
 
+![](./profile-summary-card-output/dracula/1-repos-per-language.svg) ![](./profile-summary-card-output/dracula/2-most-commit-language.svg)
+
+![](./profile-summary-card-output/dracula/3-stats.svg) ![](./profile-summary-card-output/dracula/4-productive-time.svg)
